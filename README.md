@@ -2,7 +2,7 @@
 
 ### 💻 Tech Skills:
 - **Programming Languages:** Java, C#, Python, C++, VB, Pascal  
-- **Web Development:** PHP, HTML, CSS, JavaScript  
+- **Web Development:** PHP, HTML, CSS, JavaScript, TypeScript  
 - **Frameworks:** Angular, Spring Boot, .NET  
 - **Specialized Areas:** Robotics, IoT, Software Development, Basic Mechanical & Electronic Systems  
 

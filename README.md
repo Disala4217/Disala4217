@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 👋 Hi there! I'm Disala Methmika Kumarasingha, an Instrumentation and Industrial Automation & Software Engineering student passionate about building innovative solutions through computing, electronics, and automation.  
 
-<!--
-**Disala4217/Disala4217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Tech Skills:
+- **Programming Languages:Java, C#, Python, C++, VB, Pascal  
+- **Web Development: PHP, HTML, CSS, JavaScript,
+- **Frameworks: Angular, Springboot, .net    
+- **Specialized Areas: Robotics, IoT, Software Development, Basic Mechanical & Electronic Systems
+- 
+### 🚀 Current Projects:
+- Developing a **Computer Vision-based Attendance System** with engagement analytics.  
+- Exploring the integration of AI and IoT for industrial automation.  
 
-Here are some ideas to get you started:
+### 🎯 Goals:
+- Streamline processes with smart systems.  
+- Advance expertise in AI, Computer Vision, Robotics, Automation and IoT.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Achievements:
+-GCE O/L.
+-GCE A/L.
+-Certificate in Robotics and IoT
+-Certificate in Computer Hardware and Networking
+-Diploma in IT
+-HND in Computing
+-reading BSc Computer Science in Kingston University    
+
+
+📫 **Connect with me:**  
+- [GitHub Profile](#https://www.facebook.com/disala.kumarasingha/)  
+- [LinkedIn](#https://www.linkedin.com/in/disala-kumarasingha-3560ab250/)

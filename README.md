@@ -24,5 +24,5 @@
 - Currently pursuing **BSc Computer Science** at Kingston University  
 
 📫 **Connect with me:**  
-- [GitHub Profile](https://github.com/DisalaMethmika)  
+- [FaceBook Profile](https://www.facebook.com/disala.kumarasingha/)  
 - [LinkedIn](https://www.linkedin.com/in/disala-kumarasingha-3560ab250/)  

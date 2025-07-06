@@ -4,7 +4,7 @@
 - **Programming Languages:** Java, C#, Python, C++, VB, Pascal  
 - **Web Development:** PHP, HTML, CSS, JavaScript, TypeScript  
 - **Frameworks:** Angular, Spring Boot, .NET  
-- **Specialized Areas:** Robotics, IoT, Software Development, Basic Mechanical & Electronic Systems  
+- **Specialised Areas:** Robotics, IoT, Software Development, Basic Mechanical & Electronic Systems  
 
 ### 🚀 Current Projects:
 - Developing a **Computer Vision-based Attendance System** with engagement analytics.  
@@ -12,7 +12,7 @@
 
 ### 🎯 Goals:
 - Streamline processes with smart systems.  
-- Advance expertise in AI, Computer Vision, Robotics, Automation, and IoT.  
+- Advanced expertise in AI, Computer Vision, Robotics, Automation, and IoT.  
 
 ### 🎓 Achievements:
 - GCE O/L  
@@ -21,8 +21,11 @@
 - Certificate in Computer Hardware and Networking  
 - Diploma in IT  
 - HND in Computing  
-- Currently pursuing **BSc Computer Science** at Kingston University  
+- **BSc Computer Science** at Kingston University
+- Currently pursuing **Artificial Intelligence Certification** at IIT
+- Currently pursuing **Machine Learning Certification** at IIT  
+- Currently pursuing a **Bachelor of Engineering Technology Honours in Instrumentation and Automation** at Colombo University  
 
 📫 **Connect with me:**  
-- [FaceBook Profile](https://www.facebook.com/disala.kumarasingha/)  
+- [Facebook Profile](https://www.facebook.com/disala.kumarasingha/)  
 - [LinkedIn](https://www.linkedin.com/in/disala-kumarasingha-3560ab250/)  
